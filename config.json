@@ -1,0 +1,54 @@
+{
+    "modul1": {
+        "zmienna_txt": "Jestem \"zmienną\" tekstową z 'ciapkami'",
+        "zmienna_num": 123,
+        "zmienna_flo": 456.789
+    },
+    "modul2": {
+        "zmienna_arr_txt": ["str1", "str2", "str3"],
+        "zmienna_arr_num": [123, 456, 789]
+    },
+    "modul3": {
+        "obiekt1": {
+            "nazwa": "Obiekt Jeden",
+            "numer": 1,
+            "tablica_num": [1, 1, 1],
+            "tablica_str": [
+                "obj 1 - string 1",
+                "obj 1 - string 2",
+                "obj 1 - string 3"
+            ]
+        },
+        "obiekt2": {
+            "nazwa": "Obiekt dwa",
+            "numer": 2,
+            "tablica_num": [2, 2, 2],
+            "tablica_str": [
+                "obj 2 - string 1",
+                "obj 2 - string 2"
+            ]
+        }
+    },
+    "modul4": [
+        {
+            "nazwa": "array of objects 1",
+            "wartosc": 1,
+            "inna_wartosc": "abc"
+        },
+        {
+            "nazwa": "array of objects 2",
+            "wartosc": 2,
+            "inna_wartosc": "def"
+        },
+        {
+            "nazwa": "array of objects 3",
+            "wartosc": 3,
+            "inna_wartosc": "ghi"
+        },
+        {
+            "nazwa": "array of objects 4",
+            "wartosc": 4,
+            "inna_wartosc": "jkl"
+        }
+    ]
+}
